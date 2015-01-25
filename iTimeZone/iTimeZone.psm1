@@ -1,4 +1,4 @@
-enum Ensure
+Enum Ensure
 {
    Absent
    Present
